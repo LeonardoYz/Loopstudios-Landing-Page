@@ -252,7 +252,7 @@ img {
 #banner {
   background: url('../../assets/images/mobile/image-hero.jpg') no-repeat;
   background-size: cover;
-  min-height: 55.133rem;
+  min-height: 40rem;
   padding: calc(var(--header-height) + 10.4rem) 0 19.067rem;
 }
 
@@ -450,7 +450,6 @@ img {
   #banner {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
       url('../../assets/images/desktop/image-hero.jpg') no-repeat center / cover;
-    min-height: 43rem;
     padding: calc(var(--header-height) + 5.4rem) 0 9.4rem;
   }
 
