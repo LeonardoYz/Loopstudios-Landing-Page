@@ -25,8 +25,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL: [Solution]()
-- Demo: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-loopstudios-landing-page-flexbox-and-css-grid-uge8FT-v5)
+- Demo: [Live Site](https://leonardoyz.github.io/Loopstudios-Landing-Page/)
 
 #
 
