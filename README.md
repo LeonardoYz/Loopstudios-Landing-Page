@@ -28,8 +28,6 @@ Users should be able to:
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-loopstudios-landing-page-flexbox-and-css-grid-uge8FT-v5)
 - Demo: [Live Site](https://leonardoyz.github.io/Loopstudios-Landing-Page/)
 
-#
-
 ## My process
 
 ### 🔨 Built with
@@ -40,8 +38,6 @@ Users should be able to:
 - <strong>CSS</strong> Grid
 - Mobile-first workflow
 - <strong>JavaScript</strong>
-
-#
 
 ## Author
 
